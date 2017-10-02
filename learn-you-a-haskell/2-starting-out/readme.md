@@ -7,6 +7,7 @@
 - GHC interpreter available via `ghci`
 - change prompt via `:set prompt "NEWPROMPT "`
 - load file via `:l filename.hs`
+- open/close multiline commands using `:{` and `:}`
 
 ### Essential operations
 
